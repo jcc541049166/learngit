@@ -1,2 +1,4 @@
 print hello,world
 add new line.
+add three new line for text.txt
+
